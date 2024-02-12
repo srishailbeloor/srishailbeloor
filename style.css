@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.profile{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(bgimg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: aqua;
+    font-family: cursive;
+    font-size: 35px;
+    font-weight: bold;
+}
+.container{
+    width: 85%;
+    margin: auto;
+    padding:35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ 
+.container ul li{
+    list-style: none;
+    display: inline-block;
+    margin:0 20px;
+    position: relative;
+}
+.container ul li a{
+    text-decoration: none;
+    color: azure;
+    text-transform: uppercase;
+}
+.container ul li::after{
+    content: '';
+    height: 3px;
+    width: 0%;
+    background: #009688;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
+}
+
+.container ul li{
+    list-style: none;
+    display: pointer;
+    margin: 0 20px;
+
+}
+.container ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    text-transform: uppercase;
+
+}
+.container ul li:hover::after{
+    width: 100%;
+
+}
+.content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fffdfd;
+}
+.content h2{
+    font-size: 70px;
+    margin-top: 100;
+}
+.content p{
+    margin: 20px auto;
+    font-weight: 100;
+    line-height: 25px;
+}
+
+.arrg{
+    margin-top: 55px;
+    margin-left: 250px;
+    position: relative;
+}
+
+
+h2{
+    font-family: sans-serif;
+    margin-top: 50px;
+}
+#loca img{
+    margin-right: 15px;
+    
+}
+#cont img{
+    margin-right: 15px;
+}
+#mail img{
+    margin-right: 15px;
+    
+}
+form{
+    background-color: rgb(248, 249, 251);
+    height: 400px;
+    width: 700px;
+    border-style: solid;
+    border-color:  black;
+    margin-left: 400px;
+    margin-top: 10px;
+    
+}
+#cont a{
+    text-decoration: none;
+    color: black;
+
+}
+#mail a{
+    text-decoration: none;
+    color: black;
+}
+
+iframe{
+    width: 1450px;
+    height: 300px;
+    margin-left: 19px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
