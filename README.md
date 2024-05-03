@@ -3,14 +3,26 @@ Welcome!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Srishail+kumar&center=true&width=400&height=50">
+</p>
+
 - Hi, I'm @srishailbeloor
 - Pursuing Engineering in UVCE
 - Learning Fullstack Development
 
-<!-- Typing SVG (WIP by DenverCoder1) - repo coming soon! -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=srishail+django&center=true&width=400&height=50">
+<h2 align="left">
+Skills 👨‍💻
+</h2>
+
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
 </p>
+
+<!-- Typing SVG (WIP by DenverCoder1) - repo coming soon! -->
+
 
 ## 🙋‍♂️ Contact Me 
 
