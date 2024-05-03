@@ -7,6 +7,11 @@ Welcome!
 - Pursuing Engineering in UVCE
 - Learning Fullstack Development
 
+<!-- Typing SVG (WIP by DenverCoder1) - repo coming soon! -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=srishail+django&center=true&width=400&height=50">
+</p>
+
 ## 🙋‍♂️ Contact Me 
 
 <p align="center">
