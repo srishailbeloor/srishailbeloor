@@ -15,7 +15,7 @@ Hi, I'm Srishial kumar pursuing B.Tech in University of Visvesvaraya College of 
 </div>
 
 
-## 🙋‍♂️ Connect with us
+## 🙋‍♂️ Connect with me
 ---
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
