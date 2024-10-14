@@ -11,7 +11,7 @@
 
 
 <div align="center">
-Hi, I'm Srishial kumar pursuing B.Tech in University of Visvesvaraya College of Engineering. And I'm a Python programming Enthusiast. 
+Hi, I'm Srishail kumar pursuing B.Tech in University of Visvesvaraya College of Engineering. And I'm a Python programming Enthusiast. 
 </div>
 <br/><br/>
 
