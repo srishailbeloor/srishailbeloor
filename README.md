@@ -5,7 +5,7 @@
 
 <!-- Typing SVG (WIP by DenverCoder1) - repo coming soon! -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Srishail%20kumar+;Instrested+in+Web+Development+And+Data+Analyst&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Srishail%20kumar+;Instrested+in+Web+Development&center=true&width=600&height=50">
 </p>
 
 
